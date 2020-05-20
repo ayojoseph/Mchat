@@ -1,34 +1,34 @@
 {
   "project_info": {
-    "project_number": "108852497533",
-    "firebase_url": "https://flash-chat-13998.firebaseio.com",
-    "project_id": "flash-chat-13998",
-    "storage_bucket": "flash-chat-13998.appspot.com"
+    "project_number": "648702433904",
+    "firebase_url": "https://mchat-4cfd8.firebaseio.com",
+    "project_id": "mchat-4cfd8",
+    "storage_bucket": "mchat-4cfd8.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:108852497533:android:5165f199b6edec7e8bf514",
+        "mobilesdk_app_id": "1:648702433904:android:5a1205d395b10ccb71b2b5",
         "android_client_info": {
-          "package_name": "co.ljoseph.flash_chat"
+          "package_name": "com.ljoseph.mchat"
         }
       },
       "oauth_client": [
         {
-          "client_id": "108852497533-jhgu41oonu4rm59q4q99ksf6p74e23d2.apps.googleusercontent.com",
+          "client_id": "648702433904-rjpmjs0dheodedoii73viigc97p80np6.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyD6w3lEW8_uFEGBfWlQLRDxmwxjzkeC7Wg"
+          "current_key": "AIzaSyDOPqx6d9550McRRGz-m2XhzxX6qA-c610"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "108852497533-jhgu41oonu4rm59q4q99ksf6p74e23d2.apps.googleusercontent.com",
+              "client_id": "648702433904-rjpmjs0dheodedoii73viigc97p80np6.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
